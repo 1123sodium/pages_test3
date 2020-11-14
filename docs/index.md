@@ -8,3 +8,7 @@
 ## 書いても大丈夫？
 ### あいうえお
 #### かきくけこ
+
+[lorem-ipsum.pdf](resources/lorem-ipsum.pdf)
+
+[knot picture](resources/knot.png)
