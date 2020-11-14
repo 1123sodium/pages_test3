@@ -11,4 +11,4 @@
 
 [lorem-ipsum.pdf](resources/lorem-ipsum.pdf)
 
-[knot picture](resources/knot.png)
+![knot picture](resources/knot.png)
