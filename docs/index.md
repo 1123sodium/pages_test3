@@ -23,4 +23,4 @@
 [pull knot](resources/pull.mp4)
 
 ### htmlタグ
-<video src="resources/pull.mp4" controls />
+<video src="resources/pull.mp4" width="320" controls />
